@@ -1,6 +1,6 @@
 # haritham
 
-A new Flutter project.
+A new mobile app Initiative for clean kerala.
 
 ## Getting Started
 
